@@ -4,7 +4,3 @@ def convert_c_to_f(temp_in_celsius):
 
 temperature_in_f = convert_c_to_f(20)
 print (temperature_in_f)
-
-
- git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
